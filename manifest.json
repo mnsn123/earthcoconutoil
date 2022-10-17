@@ -1,0 +1,20 @@
+{
+  "dir": "auto",
+  "name": "earthvirgincoconutoil",
+  "short_name": "earthvirgincoconutoil",
+  "scope": "https://monsoonmalabar.com/earthcoconutoil/",
+  "lang": "en",
+  "description": "The neighbourhood friend",
+  "icons": [
+    {
+      "src": "https://monsoonmalabar.com/earthcoconutoil/logo.png",
+      "sizes": "512x512",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#1266f1",
+  "background_color": "#fdfdfd",
+  "start_url": "https://monsoonmalabar.com/earthcoconutoil\/?external=false",
+  "display": "standalone",
+  "orientation": "natural"
+}
